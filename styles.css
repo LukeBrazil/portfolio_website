@@ -1,0 +1,19 @@
+.hero.is-fullheight .hero-body, .hero.is-fullheight-with-navbar .hero-body, .hero.is-halfheight .hero-body {
+    align-items: center;
+    display: flex;
+    background-color: darkgray;
+    background-image: url('pixels.jpg');
+    background-size: cover;
+    background-blend-mode: hard-light;
+}
+
+.title {
+    color: #363636;
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 1.125;
+}
+
+body {
+    background-image: url('pixels.jpg');
+}
